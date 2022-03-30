@@ -1,2 +1,5 @@
-/bin/*
-/obj/*
+/src/Gradebook/bin/*
+/src/Gradebook/obj/*
+
+/test/Gradebook.Tests/bin/*
+/test/Gradebook.Tests/obj/*
